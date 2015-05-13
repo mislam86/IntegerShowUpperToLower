@@ -1,0 +1,6 @@
+E:\103407\IntegerShowUpperToLower\IntegerShowUpperToLower\bin\Debug\IntegerShowUpperToLower.exe.config
+E:\103407\IntegerShowUpperToLower\IntegerShowUpperToLower\bin\Debug\IntegerShowUpperToLower.exe
+E:\103407\IntegerShowUpperToLower\IntegerShowUpperToLower\bin\Debug\IntegerShowUpperToLower.pdb
+E:\103407\IntegerShowUpperToLower\IntegerShowUpperToLower\obj\Debug\IntegerShowUpperToLower.csprojResolveAssemblyReference.cache
+E:\103407\IntegerShowUpperToLower\IntegerShowUpperToLower\obj\Debug\IntegerShowUpperToLower.exe
+E:\103407\IntegerShowUpperToLower\IntegerShowUpperToLower\obj\Debug\IntegerShowUpperToLower.pdb
